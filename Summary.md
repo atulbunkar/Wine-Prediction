@@ -20,7 +20,7 @@ So , For test label prediction I used Random Forest.
 
 I have attached the 'test with preds.csv' which has 'pred_variety' and all features that I used in my model.
 
-# Note : This test csv file has sorted rows by country so will look diffrent from original test as rows are inter-changed. 
+### Note : This test csv file has sorted rows by country so will look diffrent from original test as rows are inter-changed. 
 
 I also attached 'Final_train.csv' with all processed features used.  
 
